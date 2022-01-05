@@ -1,6 +1,5 @@
 # Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou Impar
 
-
 #Versão da aula
 numero = int(input('Me diga um número qualquer: '))
 resultado = numero % 2
